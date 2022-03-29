@@ -3,7 +3,7 @@
   "info" : {
     "description" : "Simplified management of your payment programs",
     "version" : "3.0.0",
-    "title" : "Marqeta Core API Actions"
+    "title" : "Marqeta Core API"
   },
   "basePath" : "/v3",
   "tags" : [ {
